@@ -1,0 +1,15 @@
+/home/javier-sanchez/Documentos/IA/IA/temp/bin/Debug/net8.0/temp
+/home/javier-sanchez/Documentos/IA/IA/temp/bin/Debug/net8.0/temp.deps.json
+/home/javier-sanchez/Documentos/IA/IA/temp/bin/Debug/net8.0/temp.runtimeconfig.json
+/home/javier-sanchez/Documentos/IA/IA/temp/bin/Debug/net8.0/temp.dll
+/home/javier-sanchez/Documentos/IA/IA/temp/bin/Debug/net8.0/temp.pdb
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.AssemblyInfoInputs.cache
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.AssemblyInfo.cs
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.csproj.CoreCompileInputs.cache
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.sourcelink.json
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.dll
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/refint/temp.dll
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.pdb
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/temp.genruntimeconfig.cache
+/home/javier-sanchez/Documentos/IA/IA/temp/obj/Debug/net8.0/ref/temp.dll

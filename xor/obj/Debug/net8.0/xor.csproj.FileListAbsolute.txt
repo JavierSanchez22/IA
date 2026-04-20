@@ -1,0 +1,15 @@
+/home/javier-sanchez/Documentos/IA/IA/xor/bin/Debug/net8.0/xor
+/home/javier-sanchez/Documentos/IA/IA/xor/bin/Debug/net8.0/xor.deps.json
+/home/javier-sanchez/Documentos/IA/IA/xor/bin/Debug/net8.0/xor.runtimeconfig.json
+/home/javier-sanchez/Documentos/IA/IA/xor/bin/Debug/net8.0/xor.dll
+/home/javier-sanchez/Documentos/IA/IA/xor/bin/Debug/net8.0/xor.pdb
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.GeneratedMSBuildEditorConfig.editorconfig
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.AssemblyInfoInputs.cache
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.AssemblyInfo.cs
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.csproj.CoreCompileInputs.cache
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.sourcelink.json
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.dll
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/refint/xor.dll
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.pdb
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/xor.genruntimeconfig.cache
+/home/javier-sanchez/Documentos/IA/IA/xor/obj/Debug/net8.0/ref/xor.dll
